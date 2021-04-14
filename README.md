@@ -2,7 +2,7 @@
 本站基于 SpringBoot + SpringData JPA +Thymeleaf 实现，MySQL数据库。<br/>
 引入Spring Security作为权限框架，Redis 作为部分缓存。<br/>
 前端采用 BootStrap + jQuery 实现。<br/>
-详细介绍：https://liuyanzhao.com/8402.html  <br/>
+详细介绍：https://liuyanzhao.com/shop/codergroup.html  <br/>
 
 # 功能介绍
 文章、分类、标签、评论、点赞、收藏、提问、回答、评论点赞  <br/>
