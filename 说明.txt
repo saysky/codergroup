@@ -1,0 +1,10 @@
+1.修改 application.properties 数据库信息
+2.启动redis
+3.修改 application-dev.properties 文件里的 qqwry.dat.path 为你项目里的 qqwry.dat 位置，如 D:\codergroup\src\main\resources\qqwry.dat
+4.修改application.properties里的邮箱信息
+5.修改 logback-spring.xml 里的日志文件夹目录
+6.后台用户密码 saysky/123456
+管理员后台地址：localhost:8080/admin
+
+
+代码仅供个人学习和使用，禁止传播
