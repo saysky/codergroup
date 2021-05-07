@@ -31,3 +31,6 @@ mvnw
 
 ### hidden
 resources
+.sql
+.html
+.css
