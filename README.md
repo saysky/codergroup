@@ -1,4 +1,5 @@
-基于springboot的论坛社区
+基于springboot的论坛社区 <br/>
+最新消息2022年05月06日，该项目已经有2.0版本，点此查看[https://liuyanzhao.com/shop/codergroup2.html](https://liuyanzhao.com/shop/codergroup2.html)
 # 关于项目
 本站基于 SpringBoot + SpringData JPA +Thymeleaf 实现，MySQL数据库。<br/>
 引入Spring Security作为权限框架，Redis 作为部分缓存。<br/>
